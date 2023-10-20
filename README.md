@@ -1,6 +1,6 @@
 # Profile card component solution 
 
-This is a solution to the [Profile card component challenge on Frontend Mentor]
+This is a solution to the [Profile card component challenge on Frontend Mentor] 
 
 
 ### Links
